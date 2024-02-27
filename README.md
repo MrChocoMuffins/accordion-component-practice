@@ -1,1 +1,1 @@
-# accordion-practice
+# accordion-component-practice
